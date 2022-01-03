@@ -1,6 +1,7 @@
 document.onload;
 
-document.getElementsByTagName("div")[0].innerHTML=
+let texto=document.getElementsByTagName("div")[0];
+texto.innerHTML=
 "Epale Gente. Como estan";
 /*
 document.getElementsByTagName("textarea")[0].onchange=
