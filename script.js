@@ -2,7 +2,7 @@ document.onload;
 
 let texto=document.getElementsByTagName("div")[0];
 texto.innerHTML=
-"Epale Gente. Como estan";
+"Epale Gente. Como eajshahshahshstan";
 /*
 document.getElementsByTagName("textarea")[0].onchange=
 function(){
