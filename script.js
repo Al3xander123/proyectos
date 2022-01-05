@@ -1,8 +1,8 @@
 document.onload;
 
-let texta=document.getElementsByTagName("textarea")[0];
+let texta=document.getElementsByTagName("textarea")[0].value;
 texta.addEventListener("keyup",miDiv);
-let textb=document.getElementsByTagName("textarea")[1];
+let textb=document.getElementsByTagName("textarea")[1].value;
 textb.addEventListener("keyup",miEstilo);
 let divp=document.getElementsByClassName("div_principal")[0];
 let estilo=document.getElementsByTagName("style")[1];
